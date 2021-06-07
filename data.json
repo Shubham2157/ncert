@@ -1,34 +1,346 @@
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+        "class 12": [
+            {
+                "maths": [
+                    {
+                        "chapter": "1",
+                        "link": "https://drive.google.com/open?id=14cJSjvKjwBbAHtQkc7Ymv1oAKYknAhR7",
+                        "title": "Relations and Function"
+                    },
+                    {
+                        "chapter": "2",
+                        "link": "https://drive.google.com/open?id=1X2hizYyDY3nEFXBHIFEnzWaWJMojM68c",
+                        "title": "Inverse Trigonometric Functions"
+                    },
+                    {
+                        "chapter": "3",
+                        "link": "https://drive.google.com/open?id=1blSUa3rf3axsdWe6NMLs492nMNc3saGT",
+                        "title": "Matrices"
+                    },
+                    {
+                        "chapter": "4",
+                        "link": "https://drive.google.com/open?id=1CIBdVPqpTPGbbz_ZQA8eFdv9Ww4FwD9h",
+                        "title": "Determinants"
+                    },
+                    {
+                        "chapter": "5",
+                        "link": "https://drive.google.com/open?id=1MHufJibBtxr_dQRa975yDcsIeE-CBg-s",
+                        "title": "Continuity and Differentiability"
+                    },
+                    {
+                        "chapter": "6",
+                        "link": "https://drive.google.com/open?id=13mEXrSTLWSkj5cHYKp3eBuZVR6-zSawH",
+                        "title": "Application of Derivatives"
+                    },
+                    {
+                        "chapter": "7",
+                        "link": "https://drive.google.com/open?id=121doAI85LEjrXeeK-0szS8aA-_qvLhoV",
+                        "title": "Integrals"
+                    },
+                    {
+                        "chapter": "8",
+                        "link": "https://drive.google.com/open?id=1IcP3Un9s793l2F3-XNgyvjW1IcXtkJGJ",
+                        "title": "Application of Integrals"
+                    },
+                    {
+                        "chapter": "9",
+                        "link": "https://drive.google.com/open?id=1gRl31I9DfUEagq_dV-BVw_0ZVaQBNHQO",
+                        "title": "Differential Equations"
+                    },
+                    {
+                        "chapter": "10",
+                        "link": "https://drive.google.com/open?id=1i6XJu3gQwxNApKOPam7a9h-BCPQe2KF5",
+                        "title": "Vector Algebra"
+                    },
+                    {
+                        "chapter": "11",
+                        "link": "https://drive.google.com/open?id=1v4S_g_5fISwoCoInFAyMs94r9xY3tfq4",
+                        "title": "Three Dimensional Geometry"
+                    },
+                    {
+                        "chapter": "12",
+                        "link": "https://drive.google.com/open?id=1lBtNMB8dzPNRVlEWoCPv7YBY2MWalWjr",
+                        "title": "Linear Programming"
+                    },
+                    {
+                        "chapter": "13",
+                        "link": "https://drive.google.com/open?id=1OutB_Eb_zJ6yEON3YBQ81QUIjfU4hVw_",
+                        "title": "Probability"
+                    },
+                    {
+                        "chapter": "14",
+                        "link": "https://drive.google.com/open?id=1bjv06cfbEL3AYXaR6SGdiwSWydEIKUTX",
+                        "title": "Answers Part 1"
+                    },
+                    {
+                        "chapter": "15",
+                        "link": "https://drive.google.com/open?id=1hMEtlW5nmQ158Fe4BRu7tLinjel9qr35",
+                        "title": "Answers Part 2"
+                    }
+                ]
+            },
+            {
+                "physics": [
+                    {
+                        "chapter": "1",
+                        "link": "https://drive.google.com/open?id=11kugVCSsw5R4XI5zW2aIqh5Cp9ZdnZfr",
+                        "title": "Electric Charges and Fields"
+                    },
+                    {
+                        "chapter": "2",
+                        "link": "https://drive.google.com/open?id=1ZCr-5PAgmfE4j3NZG0YKP-E_shtiUMbA",
+                        "title": "Electrostatic Potential and Capacitance"
+                    },
+                    {
+                        "chapter": "3",
+                        "link": "https://drive.google.com/open?id=12vfc-Xe5mWNvrj_yJ3uzCAjxXcZKE_IU",
+                        "title": "Current Electricity"
+                    },
+                    {
+                        "chapter": "4",
+                        "link": "https://drive.google.com/open?id=1QZnvMETpfFcphsPHm-yCWWkQ9h0HPZIl",
+                        "title": "Moving Charges and Magnetism"
+                    },
+                    {
+                        "chapter": "5",
+                        "link": "https://drive.google.com/open?id=1DenpdMpSRjNfceSXPvpHDkaSp6rn-oea",
+                        "title": "Magnetism and Matter"
+                    },
+                    {
+                        "chapter": "6",
+                        "link": "https://drive.google.com/open?id=1UGeX-rAfb-kW29kTaVmhKZfVXovf26yY",
+                        "title": "Electromagnetic Induction"
+                    },
+                    {
+                        "chapter": "7",
+                        "link": "https://drive.google.com/open?id=1mMMk5xI2ltVFh2rrfQuJ5sbacLWbkdQ_",
+                        "title": "Alternating Current"
+                    },
+                    {
+                        "chapter": "8",
+                        "link": "https://drive.google.com/open?id=1EzdUxdemAWzXpq2gkHmsi63ss-7wvb7u",
+                        "title": "Electromagnetic Waves"
+                    },
+                    {
+                        "chapter": "9",
+                        "link": "https://drive.google.com/open?id=1kf0BlGmw4MHiriH3M94-ptWbexbOE8xX",
+                        "title": "Ray Optics and Optical Instruments"
+                    },
+                    {
+                        "chapter": "10",
+                        "link": "https://drive.google.com/open?id=1jyLH16JI8obe0lJYyGnuPXjVt0S8RD-K",
+                        "title": "Wave Optics"
+                    },
+                    {
+                        "chapter": "11",
+                        "link": "https://drive.google.com/open?id=1vkjdAZvN3QmfZpojNKGCtNQMP9f2uz8R",
+                        "title": "Dual Nature of Radiation and Matter"
+                    },
+                    {
+                        "chapter": "12",
+                        "link": "https://drive.google.com/open?id=19ONw11ITHW3NRmQVtLiF6g-U_eKHxgti",
+                        "title": "Atoms"
+                    },
+                    {
+                        "chapter": "13",
+                        "link": "https://drive.google.com/open?id=1X93tBfanIl6zawG3Yuu6sHN1Rn1NQOnc",
+                        "title": "Nuclei"
+                    },
+                    {
+                        "chapter": "14",
+                        "link": "https://drive.google.com/open?id=1wm0haz_YDpGze2rBIetDWD3BoySnNVei",
+                        "title": "Semiconductor Electronics: Materials, Devises and Simple Circuits"
+                    },
+                    {
+                        "chapter": "15",
+                        "link": "https://drive.google.com/open?id=1Bqi445mPE4OgSqpb-Idh86ESjkJnOYCC",
+                        "title": "Communication System"
+                    },
+                    {
+                        "chapter": "16",
+                        "link": "https://drive.google.com/open?id=12NlVzAqXJNXrRagk29Fn6pIveQxH5VQf",
+                        "title": "Answers Part 1"
+                    },
+                    {
+                        "chapter": "17",
+                        "link": "https://drive.google.com/open?id=12yR9UcoB5K9y-s2oFURh9m-WJS7jE8QT",
+                        "title": "Answers Part 2"
+                    }
+                ]
+            }
+        ]
     },
     {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
+        "class 11": [
+            {
+                "maths": [
+                    {
+                        "chapter": "1",
+                        "link": "https://drive.google.com/open?id=14cJSjvKjwBbAHtQkc7Ymv1oAKYknAhR7",
+                        "title": "Relations and Function"
+                    },
+                    {
+                        "chapter": "2",
+                        "link": "https://drive.google.com/open?id=1X2hizYyDY3nEFXBHIFEnzWaWJMojM68c",
+                        "title": "Inverse Trigonometric Functions"
+                    },
+                    {
+                        "chapter": "3",
+                        "link": "https://drive.google.com/open?id=1blSUa3rf3axsdWe6NMLs492nMNc3saGT",
+                        "title": "Matrices"
+                    },
+                    {
+                        "chapter": "4",
+                        "link": "https://drive.google.com/open?id=1CIBdVPqpTPGbbz_ZQA8eFdv9Ww4FwD9h",
+                        "title": "Determinants"
+                    },
+                    {
+                        "chapter": "5",
+                        "link": "https://drive.google.com/open?id=1MHufJibBtxr_dQRa975yDcsIeE-CBg-s",
+                        "title": "Continuity and Differentiability"
+                    },
+                    {
+                        "chapter": "6",
+                        "link": "https://drive.google.com/open?id=13mEXrSTLWSkj5cHYKp3eBuZVR6-zSawH",
+                        "title": "Application of Derivatives"
+                    },
+                    {
+                        "chapter": "7",
+                        "link": "https://drive.google.com/open?id=121doAI85LEjrXeeK-0szS8aA-_qvLhoV",
+                        "title": "Integrals"
+                    },
+                    {
+                        "chapter": "8",
+                        "link": "https://drive.google.com/open?id=1IcP3Un9s793l2F3-XNgyvjW1IcXtkJGJ",
+                        "title": "Application of Integrals"
+                    },
+                    {
+                        "chapter": "9",
+                        "link": "https://drive.google.com/open?id=1gRl31I9DfUEagq_dV-BVw_0ZVaQBNHQO",
+                        "title": "Differential Equations"
+                    },
+                    {
+                        "chapter": "10",
+                        "link": "https://drive.google.com/open?id=1i6XJu3gQwxNApKOPam7a9h-BCPQe2KF5",
+                        "title": "Vector Algebra"
+                    },
+                    {
+                        "chapter": "11",
+                        "link": "https://drive.google.com/open?id=1v4S_g_5fISwoCoInFAyMs94r9xY3tfq4",
+                        "title": "Three Dimensional Geometry"
+                    },
+                    {
+                        "chapter": "12",
+                        "link": "https://drive.google.com/open?id=1lBtNMB8dzPNRVlEWoCPv7YBY2MWalWjr",
+                        "title": "Linear Programming"
+                    },
+                    {
+                        "chapter": "13",
+                        "link": "https://drive.google.com/open?id=1OutB_Eb_zJ6yEON3YBQ81QUIjfU4hVw_",
+                        "title": "Probability"
+                    },
+                    {
+                        "chapter": "14",
+                        "link": "https://drive.google.com/open?id=1bjv06cfbEL3AYXaR6SGdiwSWydEIKUTX",
+                        "title": "Answers Part 1"
+                    },
+                    {
+                        "chapter": "15",
+                        "link": "https://drive.google.com/open?id=1hMEtlW5nmQ158Fe4BRu7tLinjel9qr35",
+                        "title": "Answers Part 2"
+                    }
+                ]
+            },
+            {
+                "physics": [
+                    {
+                        "chapter": "1",
+                        "link": "https://drive.google.com/open?id=11kugVCSsw5R4XI5zW2aIqh5Cp9ZdnZfr",
+                        "title": "Electric Charges and Fields"
+                    },
+                    {
+                        "chapter": "2",
+                        "link": "https://drive.google.com/open?id=1ZCr-5PAgmfE4j3NZG0YKP-E_shtiUMbA",
+                        "title": "Electrostatic Potential and Capacitance"
+                    },
+                    {
+                        "chapter": "3",
+                        "link": "https://drive.google.com/open?id=12vfc-Xe5mWNvrj_yJ3uzCAjxXcZKE_IU",
+                        "title": "Current Electricity"
+                    },
+                    {
+                        "chapter": "4",
+                        "link": "https://drive.google.com/open?id=1QZnvMETpfFcphsPHm-yCWWkQ9h0HPZIl",
+                        "title": "Moving Charges and Magnetism"
+                    },
+                    {
+                        "chapter": "5",
+                        "link": "https://drive.google.com/open?id=1DenpdMpSRjNfceSXPvpHDkaSp6rn-oea",
+                        "title": "Magnetism and Matter"
+                    },
+                    {
+                        "chapter": "6",
+                        "link": "https://drive.google.com/open?id=1UGeX-rAfb-kW29kTaVmhKZfVXovf26yY",
+                        "title": "Electromagnetic Induction"
+                    },
+                    {
+                        "chapter": "7",
+                        "link": "https://drive.google.com/open?id=1mMMk5xI2ltVFh2rrfQuJ5sbacLWbkdQ_",
+                        "title": "Alternating Current"
+                    },
+                    {
+                        "chapter": "8",
+                        "link": "https://drive.google.com/open?id=1EzdUxdemAWzXpq2gkHmsi63ss-7wvb7u",
+                        "title": "Electromagnetic Waves"
+                    },
+                    {
+                        "chapter": "9",
+                        "link": "https://drive.google.com/open?id=1kf0BlGmw4MHiriH3M94-ptWbexbOE8xX",
+                        "title": "Ray Optics and Optical Instruments"
+                    },
+                    {
+                        "chapter": "10",
+                        "link": "https://drive.google.com/open?id=1jyLH16JI8obe0lJYyGnuPXjVt0S8RD-K",
+                        "title": "Wave Optics"
+                    },
+                    {
+                        "chapter": "11",
+                        "link": "https://drive.google.com/open?id=1vkjdAZvN3QmfZpojNKGCtNQMP9f2uz8R",
+                        "title": "Dual Nature of Radiation and Matter"
+                    },
+                    {
+                        "chapter": "12",
+                        "link": "https://drive.google.com/open?id=19ONw11ITHW3NRmQVtLiF6g-U_eKHxgti",
+                        "title": "Atoms"
+                    },
+                    {
+                        "chapter": "13",
+                        "link": "https://drive.google.com/open?id=1X93tBfanIl6zawG3Yuu6sHN1Rn1NQOnc",
+                        "title": "Nuclei"
+                    },
+                    {
+                        "chapter": "14",
+                        "link": "https://drive.google.com/open?id=1wm0haz_YDpGze2rBIetDWD3BoySnNVei",
+                        "title": "Semiconductor Electronics: Materials, Devises and Simple Circuits"
+                    },
+                    {
+                        "chapter": "15",
+                        "link": "https://drive.google.com/open?id=1Bqi445mPE4OgSqpb-Idh86ESjkJnOYCC",
+                        "title": "Communication System"
+                    },
+                    {
+                        "chapter": "16",
+                        "link": "https://drive.google.com/open?id=12NlVzAqXJNXrRagk29Fn6pIveQxH5VQf",
+                        "title": "Answers Part 1"
+                    },
+                    {
+                        "chapter": "17",
+                        "link": "https://drive.google.com/open?id=12yR9UcoB5K9y-s2oFURh9m-WJS7jE8QT",
+                        "title": "Answers Part 2"
+                    }
+                ]
+            }
+        ]
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
-}
+]
