@@ -237,12 +237,12 @@
                     },
                      {
                         "chapter": "13",
-                        "link": "https://drive.google.com/open?id=1juVSxs4dBgHzsyCmCLgePdrrOZbgD_ax"
+                        "link": "https://drive.google.com/open?id=1juVSxs4dBgHzsyCmCLgePdrrOZbgD_ax",
                         "title": "Limits and Derivatives"
                     },
                     {
                         "chapter": "14",
-                        "link": ""
+                        "link": "",
                         "title": "Mathematical Reasoning"
                     },
                     {
@@ -259,6 +259,178 @@
                         "chapter": "17",
                         "link": "https://drive.google.com/open?id=1fdAJA0IOhAtjYwCKTd_g46fzOUCJJuxp",
                         "title": "Answers"
+                    }
+                ]
+            },
+            {
+                "physics": [
+                    {
+                        "chapter": "1",
+                        "link": "https://drive.google.com/open?id=11kugVCSsw5R4XI5zW2aIqh5Cp9ZdnZfr",
+                        "title": "Electric Charges and Fields"
+                    },
+                    {
+                        "chapter": "2",
+                        "link": "https://drive.google.com/open?id=1ZCr-5PAgmfE4j3NZG0YKP-E_shtiUMbA",
+                        "title": "Electrostatic Potential and Capacitance"
+                    },
+                    {
+                        "chapter": "3",
+                        "link": "https://drive.google.com/open?id=12vfc-Xe5mWNvrj_yJ3uzCAjxXcZKE_IU",
+                        "title": "Current Electricity"
+                    },
+                    {
+                        "chapter": "4",
+                        "link": "https://drive.google.com/open?id=1QZnvMETpfFcphsPHm-yCWWkQ9h0HPZIl",
+                        "title": "Moving Charges and Magnetism"
+                    },
+                    {
+                        "chapter": "5",
+                        "link": "https://drive.google.com/open?id=1DenpdMpSRjNfceSXPvpHDkaSp6rn-oea",
+                        "title": "Magnetism and Matter"
+                    },
+                    {
+                        "chapter": "6",
+                        "link": "https://drive.google.com/open?id=1UGeX-rAfb-kW29kTaVmhKZfVXovf26yY",
+                        "title": "Electromagnetic Induction"
+                    },
+                    {
+                        "chapter": "7",
+                        "link": "https://drive.google.com/open?id=1mMMk5xI2ltVFh2rrfQuJ5sbacLWbkdQ_",
+                        "title": "Alternating Current"
+                    },
+                    {
+                        "chapter": "8",
+                        "link": "https://drive.google.com/open?id=1EzdUxdemAWzXpq2gkHmsi63ss-7wvb7u",
+                        "title": "Electromagnetic Waves"
+                    },
+                    {
+                        "chapter": "9",
+                        "link": "https://drive.google.com/open?id=1kf0BlGmw4MHiriH3M94-ptWbexbOE8xX",
+                        "title": "Ray Optics and Optical Instruments"
+                    },
+                    {
+                        "chapter": "10",
+                        "link": "https://drive.google.com/open?id=1jyLH16JI8obe0lJYyGnuPXjVt0S8RD-K",
+                        "title": "Wave Optics"
+                    },
+                    {
+                        "chapter": "11",
+                        "link": "https://drive.google.com/open?id=1vkjdAZvN3QmfZpojNKGCtNQMP9f2uz8R",
+                        "title": "Dual Nature of Radiation and Matter"
+                    },
+                    {
+                        "chapter": "12",
+                        "link": "https://drive.google.com/open?id=19ONw11ITHW3NRmQVtLiF6g-U_eKHxgti",
+                        "title": "Atoms"
+                    },
+                    {
+                        "chapter": "13",
+                        "link": "https://drive.google.com/open?id=1X93tBfanIl6zawG3Yuu6sHN1Rn1NQOnc",
+                        "title": "Nuclei"
+                    },
+                    {
+                        "chapter": "14",
+                        "link": "https://drive.google.com/open?id=1wm0haz_YDpGze2rBIetDWD3BoySnNVei",
+                        "title": "Semiconductor Electronics: Materials, Devises and Simple Circuits"
+                    },
+                    {
+                        "chapter": "15",
+                        "link": "https://drive.google.com/open?id=1Bqi445mPE4OgSqpb-Idh86ESjkJnOYCC",
+                        "title": "Communication System"
+                    },
+                    {
+                        "chapter": "16",
+                        "link": "https://drive.google.com/open?id=12NlVzAqXJNXrRagk29Fn6pIveQxH5VQf",
+                        "title": "Answers Part 1"
+                    },
+                    {
+                        "chapter": "17",
+                        "link": "https://drive.google.com/open?id=12yR9UcoB5K9y-s2oFURh9m-WJS7jE8QT",
+                        "title": "Answers Part 2"
+                    }
+                ]
+            }
+        ]
+    },
+     {
+        "class 10": [
+            {
+                "maths": [
+                    {
+                        "chapter": "1",
+                        "link": "https://drive.google.com/open?id=1uA_R1RKVfXE87erHTzY3dTgG_J7MuU1J",
+                        "title": "Real Numbers"
+                    },
+                    {
+                        "chapter": "2",
+                        "link": "https://drive.google.com/open?id=1Lkpio4y53JJm9fYmrNe9VfHETlHYL5W9",
+                        "title": "Polynomials"
+                    },
+                    {
+                        "chapter": "3",
+                        "link": "https://drive.google.com/open?id=1Po0su7xYSXRxTC14EP_w-7KHLMZ_Jpeq",
+                        "title": "Pair of Linear Equations in Two Variables"
+                    },
+                    {
+                        "chapter": "4",
+                        "link": "https://drive.google.com/open?id=1v9hEM2H-TAOT_cjBirL5X_lRM54ON5Ei",
+                        "title": "Quadratic Equations"
+                    },
+                    {
+                        "chapter": "5",
+                        "link": "https://drive.google.com/open?id=1t9mWfoVrHwEILAMO_HxKHhZIwEtfKrng",
+                        "title": "Arithmetic Progression"
+                    },
+                    {
+                        "chapter": "6",
+                        "link": "https://drive.google.com/open?id=1E4H2Cuh4kNCTpXtlYP_SiG7drBNwT9e7",
+                        "title": "Triangles"
+                    },
+                    {
+                        "chapter": "7",
+                        "link": "https://drive.google.com/open?id=12XVnyN-XHuj5CFx0WP-WBo41XS9A1yiR",
+                        "title": "Coordinate Geometry"
+                    },
+                    {
+                        "chapter": "8",
+                        "link": "https://drive.google.com/open?id=16N-0PN8Sjt5K9eQrvvBPP_bwUx9CPgFr",
+                        "title": "Introduction to Trigonometr"
+                    },
+                    {
+                        "chapter": "9",
+                        "link": "https://drive.google.com/open?id=1h56QDgCR7o8N3hypjJR5BbY0Y3Mh0QIW",
+                        "title": "Some Applications of Trigonometry"
+                    },
+                    {
+                        "chapter": "10",
+                        "link": "https://drive.google.com/open?id=1UbSYfNpZx9PmnuxfaNs1qvGS7MZqKi-w",
+                        "title": "Circles"
+                    },
+                    {
+                        "chapter": "11",
+                        "link": "https://drive.google.com/open?id=14y9MXqFkwYAU-x8Wy_hl6GhwnHqPI0Zk",
+                        "title": "Constructions"
+                    },
+                    {
+                        "chapter": "12",
+                        "link": "https://drive.google.com/open?id=1hrwsBUhESn_saP8OWnMdHaOlLFTqroWO",
+                        "title": "Area Related to Circles"
+                    },
+                    {
+                        "chapter": "13",
+                        "link": "https://drive.google.com/open?id=1U7X2EQLAGpwV-zHznQMSvksyre0g67db",
+                        "title": "Surface Areas and Volumes"
+                    },
+                    {
+                        "chapter": "14",
+                        "link": "https://drive.google.com/open?id=1WjRbS_82rxYSNLwniAxu5k2SwbwHDvwj",
+                        "title": "Statistics"
+                    },
+                    {
+                        "chapter": "15",
+                        "link": "https://drive.google.com/open?id=1DR2825lzxy3i6ZKjiJ-rzRkrsWHtEw4Q",
+                        "title": "Probability"
                     }
                 ]
             },
