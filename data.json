@@ -177,78 +177,88 @@
                 "maths": [
                     {
                         "chapter": "1",
-                        "link": "https://drive.google.com/open?id=14cJSjvKjwBbAHtQkc7Ymv1oAKYknAhR7",
-                        "title": "Relations and Function"
+                        "link": "https://drive.google.com/open?id=1DpA6igc16QHvjes47K0YU-sOpSjVRtuR",
+                        "title": "Sets"
                     },
                     {
                         "chapter": "2",
-                        "link": "https://drive.google.com/open?id=1X2hizYyDY3nEFXBHIFEnzWaWJMojM68c",
-                        "title": "Inverse Trigonometric Functions"
+                        "link": "https://drive.google.com/open?id=1MSM3AjZcVk19OqC7aph_JCMVTdZ4xE4l",
+                        "title": "Relations and Functions"
                     },
                     {
                         "chapter": "3",
-                        "link": "https://drive.google.com/open?id=1blSUa3rf3axsdWe6NMLs492nMNc3saGT",
-                        "title": "Matrices"
+                        "link": "https://drive.google.com/open?id=1-8Q1Os-TiQI7S_kiemqc7xtNQ0Pe1ulq",
+                        "title": "Trigonometric Functions"
                     },
                     {
                         "chapter": "4",
-                        "link": "https://drive.google.com/open?id=1CIBdVPqpTPGbbz_ZQA8eFdv9Ww4FwD9h",
-                        "title": "Determinants"
+                        "link": "https://drive.google.com/open?id=1elhU0zyt2e2jwjdY3vbXRw9olL9-aTnj",
+                        "title": "Principle of Mathematical Induction"
                     },
                     {
                         "chapter": "5",
-                        "link": "https://drive.google.com/open?id=1MHufJibBtxr_dQRa975yDcsIeE-CBg-s",
-                        "title": "Continuity and Differentiability"
+                        "link": "https://drive.google.com/open?id=1CDxw0MWVEsYgNKzLDB7HY_ZdEl48uNrt",
+                        "title": "Complex Numbers and Quadratic Equations"
                     },
                     {
                         "chapter": "6",
-                        "link": "https://drive.google.com/open?id=13mEXrSTLWSkj5cHYKp3eBuZVR6-zSawH",
-                        "title": "Application of Derivatives"
+                        "link": "https://drive.google.com/open?id=1Sz8CHIt7mhaKvgZmIgEKOiX8i2s0jbhD",
+                        "title": "Linear Inequalities"
                     },
                     {
                         "chapter": "7",
-                        "link": "https://drive.google.com/open?id=121doAI85LEjrXeeK-0szS8aA-_qvLhoV",
-                        "title": "Integrals"
+                        "link": "https://drive.google.com/open?id=1Dt9ErxV9W792-NJgwFGqVAoOvgP0pxUu",
+                        "title": "Permutations and Combinations"
                     },
                     {
                         "chapter": "8",
-                        "link": "https://drive.google.com/open?id=1IcP3Un9s793l2F3-XNgyvjW1IcXtkJGJ",
-                        "title": "Application of Integrals"
+                        "link": "https://drive.google.com/open?id=1_fzwuztwpdyPXqhQOZES2I-HOgcR8Eh7",
+                        "title": "Binomial Theorem"
                     },
                     {
                         "chapter": "9",
-                        "link": "https://drive.google.com/open?id=1gRl31I9DfUEagq_dV-BVw_0ZVaQBNHQO",
-                        "title": "Differential Equations"
+                        "link": "https://drive.google.com/open?id=1gAgoVAr3OtVef40GVaArO_kcKnZhYBAX",
+                        "title": "Sequences and Series"
                     },
                     {
                         "chapter": "10",
-                        "link": "https://drive.google.com/open?id=1i6XJu3gQwxNApKOPam7a9h-BCPQe2KF5",
-                        "title": "Vector Algebra"
+                        "link": "https://drive.google.com/open?id=1ssqBHy958lzGJ4FgCxWsL_bnXLhkuDGD",
+                        "title": "Straight Lines"
                     },
                     {
                         "chapter": "11",
-                        "link": "https://drive.google.com/open?id=1v4S_g_5fISwoCoInFAyMs94r9xY3tfq4",
-                        "title": "Three Dimensional Geometry"
+                        "link": "https://drive.google.com/open?id=1mKdYzqP9ZFSXdLC6QA6uBlXBWfnr9g1g",
+                        "title": "Conic Sections"
                     },
                     {
                         "chapter": "12",
-                        "link": "https://drive.google.com/open?id=1lBtNMB8dzPNRVlEWoCPv7YBY2MWalWjr",
-                        "title": "Linear Programming"
+                        "link": "https://drive.google.com/open?id=1PAtc61ykWhLzWhlK1RXY2BwA5jigM4r1",
+                        "title": "Introduction to Three Dimensional Geometry"
                     },
-                    {
+                     {
                         "chapter": "13",
-                        "link": "https://drive.google.com/open?id=1OutB_Eb_zJ6yEON3YBQ81QUIjfU4hVw_",
-                        "title": "Probability"
+                        "link": "https://drive.google.com/open?id=1juVSxs4dBgHzsyCmCLgePdrrOZbgD_ax"
+                        "title": "Limits and Derivatives"
                     },
                     {
                         "chapter": "14",
-                        "link": "https://drive.google.com/open?id=1bjv06cfbEL3AYXaR6SGdiwSWydEIKUTX",
-                        "title": "Answers Part 1"
+                        "link": ""
+                        "title": "Mathematical Reasoning"
                     },
                     {
                         "chapter": "15",
-                        "link": "https://drive.google.com/open?id=1hMEtlW5nmQ158Fe4BRu7tLinjel9qr35",
-                        "title": "Answers Part 2"
+                        "link": "https://drive.google.com/open?id=1t6x7g7LPrM_wA9lgiYXJI4Bb5jip4Tn7",
+                        "title": "Statistics"
+                    },
+                    {
+                        "chapter": "16",
+                        "link": "https://drive.google.com/open?id=1cnfE5nFu-9a69v7XOWgfdiY5DSuhHqzE",
+                        "title": "Probability"
+                    },
+                    {
+                        "chapter": "17",
+                        "link": "https://drive.google.com/open?id=1fdAJA0IOhAtjYwCKTd_g46fzOUCJJuxp",
+                        "title": "Answers"
                     }
                 ]
             },
